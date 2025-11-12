@@ -1,0 +1,16 @@
+name: fx-private-relay-orig
+id: ari:cloud:compass:710800ae-63a2-4399-8ad0-12fe7c5f2374:component/423e3dc4-d6c4-40cd-bc1a-541cc11cd3f1/8a4e6cf6-03f9-4bdc-8c9e-834377c30edf
+description: Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/OS-APLET-lukas-jane/fx-private-relay-orig
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
